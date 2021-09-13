@@ -49,6 +49,7 @@
 		439BE9BF26EFB71A00246A17 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		439BE9C326EFB71A00246A17 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		439BE9C526EFB71A00246A17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		439BE9DA26EFB7A900246A17 /* 1_lesson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1_lesson.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +121,7 @@
 			isa = PBXGroup;
 			children = (
 				439BE9A726EFB71A00246A17 /* Info.plist */,
+				439BE9DA26EFB7A900246A17 /* 1_lesson.swift */,
 			);
 			path = iOS;
 			sourceTree = "<group>";
